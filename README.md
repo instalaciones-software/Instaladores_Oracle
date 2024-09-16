@@ -1,2 +1,2 @@
 # oracle
-oracle
+Oracle Linux
